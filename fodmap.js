@@ -26,4 +26,13 @@ window.onload = function(){
     document.getElementById("result-overlay").style.background = results[1]; 
     document.getElementById("result").innerHTML = results[2];
   });
+
+  if (document.getElementById("result-overlay").style.visibility = "visible"){
+    document.getElementById("result-overlay").addEventListener("keyup", myFunction);
+    myFunction();
+  }
 };
+
+function myFunction() {
+  console.log("is this working??");
+}
