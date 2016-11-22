@@ -1,38 +1,36 @@
 window.onload = function(){
-
+  
   var fodCSV;
-
   function preload() {
     fodCSV = loadJSON("/data/fodmap.json"); 
   }
   
-  document.getElementById("canieatthis").addEventListener("submit", function(event) {
-    document.getElementById("result-overlay").style.visibility = "hidden"; 
-    event.preventDefault();
-    var foodInput = document.getElementById("food").value;
+  $("#canieatthis").submit(function(e) { 
+    e.preventDefault();
+    var foodInput = $("#food").val();
     console.log(foodInput);
-    
     var results;
 
     if (foodInput == "tomato"){
-      results = ["visible", "green", "YES"]; 
+      results = ["green", "YES"]; 
     } else if (foodInput == "bread"){
-      results = ["visible", "red", "NO"]; 
+      results = ["red", "NO"]; 
     } else {
-      results = ["visible", "black", "NO RESULT"]; 
+      results = ["black", "NO RESULT"]; 
     }
 
-    document.getElementById("result-overlay").style.visibility = results[0]; 
-    document.getElementById("result-overlay").style.background = results[1]; 
-    document.getElementById("result").innerHTML = results[2];
+    $("#result-overlay").css({
+      background: results[0]
+    }).show();
+
+    $("#result").html(results[1]);
   });
 
-  if (document.getElementById("result-overlay").style.visibility = "visible"){
-    document.getElementById("result-overlay").addEventListener("keyup", myFunction);
-    myFunction();
-  }
+  $(window).keyup(function(e) {
+    var overlay = $("#result-overlay");
+    if (e.which == 27 && overlay.is(":visible")){
+      overlay.hide(); 
+      $("#food").val("");
+    } 
+  });
 };
-
-function myFunction() {
-  console.log("is this working??");
-}
