@@ -2,1459 +2,1459 @@
   {
     "food":["garlic","garlic clove", "garlic cloves"], 
     "category": "vegetables and legumes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
     "food":["onion", "onions"],
     "category": "vegetables and legumes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
     "food": ["bamboo shoot","bamboo"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
     "food": ["bean sprout","bean sprouts", "sprout", "sprouts"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
     "food": ["bok choy","bok choys","bok choi","bok chois","pak choi","pak chois","pak choy","pak choys"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "broccoli",
+    "food": ["broccoli"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "1/2 cup max"
+    "edible": "yes",
+    "limit": "1/2 cup max"
   },
   {
-    "food": "cabbage, common and red",
+    "food": ["cabbage, common and red"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "carrot",
+    "food": ["carrot"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "celery",
+    "food": ["celery"],
     "category": "vegetables and legumes",
-    "edible?": "yes with limits",
-    "limit?": "5cm stalk max"
+    "edible": "yes with limits",
+    "limit": "5cm stalk max"
   },
   {
-    "food": "chickpea",
+    "food": ["chickpea"],
     "category": "vegetables and legumes",
-    "edible?": "yes with limits",
-    "limit?": "1/4 cup max"
+    "edible": "yes with limits",
+    "limit": "1/4 cup max"
   },
   {
-    "food": "corn",
+    "food": ["corn"],
     "category": "vegetables and legumes",
-    "edible?": "yes with limits",
-    "limit?": "1/2 cob max"
+    "edible": "yes with limits",
+    "limit": "1/2 cob max"
   },
   {
-    "food": "zucchini",
+    "food": ["zucchini"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "chilli",
+    "food": ["chilli"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "cucumber",
+    "food": ["cucumber"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "eggplant",
+    "food": ["eggplant"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "green bean",
+    "food": ["green bean"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "capsicum (green and red)",
+    "food": ["capsicum (green and red)"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "kale",
+    "food": ["kale"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "lettuce e.g. butter, iceberg, rocket",
+    "food": ["lettuce e.g. butter, iceberg, rocket"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "fennel bulb",
+    "food": ["fennel bulb"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "parsnip",
+    "food": ["parsnip"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "potato",
+    "food": ["potato"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "pumpkin",
+    "food": ["pumpkin"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "rocket",
+    "food": ["rocket"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "tomato",
+    "food": ["tomato"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "ginger",
+    "food": ["ginger"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "olive",
+    "food": ["olive"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "scallion/spring onion",
+    "food": ["scallion/spring onion"],
     "category": "vegetables and legumes",
-    "edible?": "yes with limits",
-    "limit?": "green part only"
+    "edible": "yes with limits",
+    "limit": "green part only"
   },
   {
-    "food": "squash",
+    "food": ["squash"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "sweet potato",
+    "food": ["sweet potato"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "seaweed(nori)",
+    "food": ["seaweed(nori)"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "spinach",
+    "food": ["spinach"],
     "category": "vegetables and legumes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "aparagus",
+    "food": ["aparagus"],
     "category": "vegetables and legumes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "artichoke",
+    "food": ["artichoke"],
     "category": "vegetables and legumes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "bean e.g. black, broad, kidney, lima, soya",
+    "food": ["bean e.g. black, broad, kidney, lima, soya"],
     "category": "vegetables and legumes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "cauliflower",
+    "food": ["cauliflower"],
     "category": "vegetables and legumes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "cabbage, savoy",
+    "food": ["cabbage, savoy"],
     "category": "vegetables and legumes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "sweet corn",
+    "food": ["sweet corn"],
     "category": "vegetables and legumes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "snowpea",
+    "food": ["snowpea"],
     "category": "vegetables and legumes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "mushroom",
+    "food": ["mushroom"],
     "category": "vegetables and legumes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "radicchio",
+    "food": ["radicchio"],
     "category": "vegetables and legumes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "pea",
+    "food": ["pea"],
     "category": "vegetables and legumes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "scallion/spring onion",
+    "food": ["scallion/spring onion"],
     "category": "vegetables and legumes",
-    "edible?": "no with limits",
-    "limit?": "white part only"
+    "edible": "no with limits",
+    "limit": "white part only"
   },
   {
-    "food": "banana",
+    "food": ["banana"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "blueberry",
+    "food": ["blueberry"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "cantaloupe",
+    "food": ["cantaloupe"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "cranberry",
+    "food": ["cranberry"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "coconut",
+    "food": ["coconut"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "clementine",
+    "food": ["clementine"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "dragon fruit",
+    "food": ["dragon fruit"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "grape",
+    "food": ["grape"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "melon e.g. honeydew, galia",
+    "food": ["melon e.g. honeydew, galia"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "kiwifruit",
+    "food": ["kiwifruit"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "lemon",
+    "food": ["lemon"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "lime",
+    "food": ["lime"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "mandarin",
+    "food": ["mandarin"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "orange",
+    "food": ["orange"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "pineapple",
+    "food": ["pineapple"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "papaya",
+    "food": ["papaya"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "passionfruit",
+    "food": ["passionfruit"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "raspberry",
+    "food": ["raspberry"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "rhubarb",
+    "food": ["rhubarb"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "strawberry",
+    "food": ["strawberry"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "tangelo",
+    "food": ["tangelo"],
     "category": "fruit",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "apple",
+    "food": ["apple"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "apricot",
+    "food": ["apricot"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "avocado",
+    "food": ["avocado"],
     "category": "fruit",
-    "edible?": "yes with limits",
-    "limit?": "1/4 fruit max"
+    "edible": "yes with limits",
+    "limit": "1/4 fruit max"
   },
   {
-    "food": "blackberry",
+    "food": ["blackberry"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "boysenberry",
+    "food": ["boysenberry"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "cherry",
+    "food": ["cherry"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "grapefruit",
+    "food": ["grapefruit"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "mango",
+    "food": ["mango"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "peach",
+    "food": ["peach"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "pear",
+    "food": ["pear"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "plum",
+    "food": ["plum"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "prune",
+    "food": ["prune"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "raisin",
+    "food": ["raisin"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "sultana",
+    "food": ["sultana"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "watermelon",
+    "food": ["watermelon"],
     "category": "fruit",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "beef",
+    "food": ["beef"],
     "category": "meat and substitutes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "chicken",
+    "food": ["chicken"],
     "category": "meat and substitutes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "lamb",
+    "food": ["lamb"],
     "category": "meat and substitutes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "pork",
+    "food": ["pork"],
     "category": "meat and substitutes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "kangaroo",
+    "food": ["kangaroo"],
     "category": "meat and substitutes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "prawn",
+    "food": ["prawn"],
     "category": "meat and substitutes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "tofu",
+    "food": ["tofu"],
     "category": "meat and substitutes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "quorn mince",
+    "food": ["quorn mince"],
     "category": "meat and substitutes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "cold cuts e.g. ham and turkey breast",
+    "food": ["cold cuts e.g. ham and turkey breast"],
     "category": "meat and substitutes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "fish",
+    "food": ["fish"],
     "category": "meat and substitutes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "tuna (canned)",
+    "food": ["tuna (canned)"],
     "category": "meat and substitutes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "egg",
+    "food": ["egg"],
     "category": "meat and substitutes",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "chorizo",
+    "food": ["chorizo"],
     "category": "meat and substitutes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "sausage",
+    "food": ["sausage"],
     "category": "meat and substitutes",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "processed meat",
+    "food": ["processed meat"],
     "category": "meat and substitutes",
-    "edible?": "no with limits",
-    "limit?": "check ingredients"
+    "edible": "no with limits",
+    "limit": "check ingredients"
   },
   {
-    "food": "oats",
+    "food": ["oats"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "quinoa",
+    "food": ["quinoa"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "gluten free foods e.g. breads, pasta",
+    "food": ["gluten free foods e.g. breads, pasta"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "savory biscuit",
+    "food": ["savory biscuit"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "buckwheat chips(plain)",
+    "food": ["buckwheat chips(plain)"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "cornflour oatmeal",
+    "food": ["cornflour oatmeal"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "yes with limits",
-    "limit?": "1/2 cup max"
+    "edible": "yes with limits",
+    "limit": "1/2 cup max"
   },
   {
-    "food": "rice",
+    "food": ["rice"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "yes with limits",
-    "limit?": "brown, white, basmati"
+    "edible": "yes with limits",
+    "limit": "brown, white, basmati"
   },
   {
-    "food": "tortilla chips",
+    "food": ["tortilla chips"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "polenta",
+    "food": ["polenta"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "flour",
+    "food": ["flour"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "yes with limits",
-    "limit?": "corn, buckwheat, quinoa, rice"
+    "edible": "yes with limits",
+    "limit": "corn, buckwheat, quinoa, rice"
   },
   {
-    "food": "soba noodle",
+    "food": ["soba noodle"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "barley",
+    "food": ["barley"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "bran",
+    "food": ["bran"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "cous cous",
+    "food": ["cous cous"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "gnocchi",
+    "food": ["gnocchi"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "granola",
+    "food": ["granola"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "muesli",
+    "food": ["muesli"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "muffin",
+    "food": ["muffin"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "rye",
+    "food": ["rye"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "semolina",
+    "food": ["semolina"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "spelt",
+    "food": ["spelt"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "wheat e.g. bread, cereal, pasta",
+    "food": ["wheat e.g. bread, cereal, pasta"],
     "category": "breads, cereals, grains and pasta",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "almond",
+    "food": ["almond"],
     "category": "nuts and seeds",
-    "edible?": "yes with limits",
-    "limit?": "15 pieces max"
+    "edible": "yes with limits",
+    "limit": "15 pieces max"
   },
   {
-    "food": "chestnut",
+    "food": ["chestnut"],
     "category": "nuts and seeds",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "chia seed",
+    "food": ["chia seed"],
     "category": "nuts and seeds",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "hazelnut",
+    "food": ["hazelnut"],
     "category": "nuts and seeds",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "macademia nut",
+    "food": ["macademia nut"],
     "category": "nuts and seeds",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "peanut",
+    "food": ["peanut"],
     "category": "nuts and seeds",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "pecan",
+    "food": ["pecan"],
     "category": "nuts and seeds",
-    "edible?": "yes with limits",
-    "limit?": "15 pieces max"
+    "edible": "yes with limits",
+    "limit": "15 pieces max"
   },
   {
-    "food": "poppy seed",
+    "food": ["poppy seed"],
     "category": "nuts and seeds",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "pumpkin seed",
+    "food": ["pumpkin seed"],
     "category": "nuts and seeds",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "sesame seed",
+    "food": ["sesame seed"],
     "category": "nuts and seeds",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "sunflower seed",
+    "food": ["sunflower seed"],
     "category": "nuts and seeds",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "walnut",
+    "food": ["walnut"],
     "category": "nuts and seeds",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "cashew",
+    "food": ["cashew"],
     "category": "nuts and seeds",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "pistachio",
+    "food": ["pistachio"],
     "category": "nuts and seeds",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "almond milk",
+    "food": ["almond milk"],
     "category": "milk",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "coconut milk",
+    "food": ["coconut milk"],
     "category": "milk",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "hemp milk",
+    "food": ["hemp milk"],
     "category": "milk",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "lactose free milk",
+    "food": ["lactose free milk"],
     "category": "milk",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "oat milk",
+    "food": ["oat milk"],
     "category": "milk",
-    "edible?": "yes with limits",
-    "limit?": "30ml max"
+    "edible": "yes with limits",
+    "limit": "30ml max"
   },
   {
-    "food": "soya milk",
+    "food": ["soya milk"],
     "category": "milk",
-    "edible?": "yes with limits",
-    "limit?": "made with soy protein"
+    "edible": "yes with limits",
+    "limit": "made with soy protein"
   },
   {
-    "food": "cow milk",
+    "food": ["cow milk"],
     "category": "milk",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "evaporated milk",
+    "food": ["evaporated milk"],
     "category": "milk",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "goat milk",
+    "food": ["goat milk"],
     "category": "milk",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "rice milk",
+    "food": ["rice milk"],
     "category": "milk",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "sheep's milk",
+    "food": ["sheep's milk"],
     "category": "milk",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "soy milk",
+    "food": ["soy milk"],
     "category": "milk",
-    "edible?": "no with limits",
-    "limit?": "made with soy beans"
+    "edible": "no with limits",
+    "limit": "made with soy beans"
   },
   {
-    "food": "butter",
+    "food": ["butter"],
     "category": "dairy",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "dark chocolate",
+    "food": ["dark chocolate"],
     "category": "dairy",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "milk chocolate",
+    "food": ["milk chocolate"],
     "category": "dairy",
-    "edible?": "yes with limits",
-    "limit?": "3 squares max"
+    "edible": "yes with limits",
+    "limit": "3 squares max"
   },
   {
-    "food": "white chocolate",
+    "food": ["white chocolate"],
     "category": "dairy",
-    "edible?": "yes with limits",
-    "limit?": "3 squares max"
+    "edible": "yes with limits",
+    "limit": "3 squares max"
   },
   {
-    "food": "buttermilk",
+    "food": ["buttermilk"],
     "category": "dairy",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "cream",
+    "food": ["cream"],
     "category": "dairy",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "custard",
+    "food": ["custard"],
     "category": "dairy",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "greek yoghurt",
+    "food": ["greek yoghurt"],
     "category": "dairy",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "ice cream",
+    "food": ["ice cream"],
     "category": "dairy",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "sour cream",
+    "food": ["sour cream"],
     "category": "dairy",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "yoghurt",
+    "food": ["yoghurt"],
     "category": "dairy",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "riccotta cheese",
+    "food": ["riccotta cheese"],
     "category": "cheese",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "cream cheese",
+    "food": ["cream cheese"],
     "category": "cheese",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "brie",
+    "food": ["brie"],
     "category": "cheese",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "camembert",
+    "food": ["camembert"],
     "category": "cheese",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "chevre(goat cheese)",
+    "food": ["chevre(goat cheese)"],
     "category": "cheese",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "cheddar",
+    "food": ["cheddar"],
     "category": "cheese",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "cottage cheese",
+    "food": ["cottage cheese"],
     "category": "cheese",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "feta",
+    "food": ["feta"],
     "category": "cheese",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "mozzarella",
+    "food": ["mozzarella"],
     "category": "cheese",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "parmesan",
+    "food": ["parmesan"],
     "category": "cheese",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "swiss",
+    "food": ["swiss"],
     "category": "cheese",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "barbeque sauce",
+    "food": ["barbeque sauce"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "chutney",
+    "food": ["chutney"],
     "category": "condiments",
-    "edible?": "yes with limits",
-    "limit?": "1 tbsp max"
+    "edible": "yes with limits",
+    "limit": "1 tbsp max"
   },
   {
-    "food": "garlic infused oil",
+    "food": ["garlic infused oil"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "golden syrup",
+    "food": ["golden syrup"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "strawberry jam",
+    "food": ["strawberry jam"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "mayonnaise",
+    "food": ["mayonnaise"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "mustard",
+    "food": ["mustard"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "soy sauce",
+    "food": ["soy sauce"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "tomato sauce",
+    "food": ["tomato sauce"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "olive oil",
+    "food": ["olive oil"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "sesame oil",
+    "food": ["sesame oil"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "wasabi",
+    "food": ["wasabi"],
     "category": "condiments",
-    "edible?": "yes with limits",
-    "limit?": "1 tsp max"
+    "edible": "yes with limits",
+    "limit": "1 tsp max"
   },
   {
-    "food": "sesame oil",
+    "food": ["sesame oil"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "vinegar",
+    "food": ["vinegar"],
     "category": "condiments",
-    "edible?": "yes with limits",
-    "limit?": "apple cider, balsamic, rice wine - 2 tbsp max."
+    "edible": "yes with limits",
+    "limit": "apple cider, balsamic, rice wine - 2 tbsp max."
   },
   {
-    "food": "oil",
+    "food": ["oil"],
     "category": "condiments",
-    "edible?": "yes with limits",
-    "limit?": "avocado, canola, coconut, sunflower, vegetable"
+    "edible": "yes with limits",
+    "limit": "avocado, canola, coconut, sunflower, vegetable"
   },
   {
-    "food": "caper",
+    "food": ["caper"],
     "category": "condiments",
-    "edible?": "yes with limits",
-    "limit?": "1 tbsp max."
+    "edible": "yes with limits",
+    "limit": "1 tbsp max."
   },
   {
-    "food": "vegemite",
+    "food": ["vegemite"],
     "category": "condiments",
-    "edible?": "yes with limits",
-    "limit?": "1 tsp max."
+    "edible": "yes with limits",
+    "limit": "1 tsp max."
   },
   {
-    "food": "cumin",
+    "food": ["cumin"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "paprika",
+    "food": ["paprika"],
     "category": "condiments",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "hommus dip",
+    "food": ["hommus dip"],
     "category": "condiments",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "jam(mixed berries)",
+    "food": ["jam(mixed berries)"],
     "category": "condiments",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "pasta sauce (cream based)",
+    "food": ["pasta sauce (cream based)"],
     "category": "condiments",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "relish",
+    "food": ["relish"],
     "category": "condiments",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "tzatziki dip",
+    "food": ["tzatziki dip"],
     "category": "condiments",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "aspartame",
+    "food": ["aspartame"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "acesulfame k",
+    "food": ["acesulfame k"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "glucose",
+    "food": ["glucose"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "saccharine",
+    "food": ["saccharine"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "stevia",
+    "food": ["stevia"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "sucralose",
+    "food": ["sucralose"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "sugar and sucrose",
+    "food": ["sugar and sucrose"],
     "category": "sweeteners",
-    "edible?": "yes with limits",
-    "limit?": "organic and regular"
+    "edible": "yes with limits",
+    "limit": "organic and regular"
   },
   {
-    "food": "dextrose",
+    "food": ["dextrose"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": ""
+    "edible": "yes",
+    "limit": ""
   },
   {
-    "food": "granulated sugar",
+    "food": ["granulated sugar"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "sugar syrup",
+    "food": ["sugar syrup"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "rice malt syrup",
+    "food": ["rice malt syrup"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   }, 
   {
-    "food": "castor sugar",
+    "food": ["castor sugar"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   }, 
   {
-    "food": "icing sugar",
+    "food": ["icing sugar"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   }, 
   {
-    "food": "refined sugar",
+    "food": ["refined sugar"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },  
   {
-    "food": "cane syrup",
+    "food": ["cane syrup"],
     "category": "sweeteners",
-    "edible?": "yes with limits",
-    "limit?": "organic and regular"
+    "edible": "yes with limits",
+    "limit": "organic and regular"
   },
   {
-    "food": "corn syrup",
+    "food": ["corn syrup"],
     "category": "sweeteners",
-    "edible?": "yes with limits",
-    "limit?": "any corn syrup besides high-fructose corn syrup"
+    "edible": "yes with limits",
+    "limit": "any corn syrup besides high-fructose corn syrup"
   },
   {
-    "food": "evaporated milled cane juice",
+    "food": ["evaporated milled cane juice"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "naturally milled organic sugar",
+    "food": ["naturally milled organic sugar"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "superfine sugar",
+    "food": ["superfine sugar"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "cane sugar",
+    "food": ["cane sugar"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "confectioner's sugar",
+    "food": ["confectioner's sugar"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "brown sugar",
+    "food": ["brown sugar"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "maple syrup",
+    "food": ["maple syrup"],
     "category": "sweeteners",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "agave",
+    "food": ["agave"],
     "category": "sweeteners",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "high frucose corn syrup(hfcs)",
+    "food": ["high frucose corn syrup(hfcs)"],
     "category": "sweeteners",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "honey",
+    "food": ["honey"],
     "category": "sweeteners",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "inulin",
+    "food": ["inulin"],
     "category": "sweeteners",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "isomalt",
+    "food": ["isomalt"],
     "category": "sweeteners",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "maltitol",
+    "food": ["maltitol"],
     "category": "sweeteners",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "mannitol",
+    "food": ["mannitol"],
     "category": "sweeteners",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "sorbitol",
+    "food": ["sorbitol"],
     "category": "sweeteners",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "xylitol",
+    "food": ["xylitol"],
     "category": "sweeteners",
-    "edible?": "no with limits",
-    "limit?": "sugar-free gum, mints, cough drops"
+    "edible": "no with limits",
+    "limit": "sugar-free gum, mints, cough drops"
   },
   {
-    "food": "beer",
+    "food": ["beer"],
     "category": "drinks",
-    "edible?": "yes with limits",
-    "limit?": "1 max"
+    "edible": "yes with limits",
+    "limit": "1 max"
   },
   {
-    "food": "caffine",
+    "food": ["caffine"],
     "category": "drinks",
-    "edible?": "yes with limit",
-    "limit?": "black"
+    "edible": "yes with limit",
+    "limit": "black"
   },
   {
-    "food": "drinking chocolate powder",
+    "food": ["drinking chocolate powder"],
     "category": "drinks",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "tea",
+    "food": ["tea"],
     "category": "drinks",
-    "edible?": "yes with limits",
-    "limit?": "black, white, green"
+    "edible": "yes with limits",
+    "limit": "black, white, green"
   },
   {
-    "food": "orange juice (125ml max)",
+    "food": ["orange juice (125ml max)"],
     "category": "drinks",
-    "edible?": "yes with limits",
-    "limit?": "-"
+    "edible": "yes with limits",
+    "limit": "-"
   },
   {
-    "food": "peppermint tea",
+    "food": ["peppermint tea"],
     "category": "drinks",
-    "edible?": "yes",
-    "limit?": "125ml max"
+    "edible": "yes",
+    "limit": "125ml max"
   },
   {
-    "food": "water",
+    "food": ["water"],
     "category": "drinks",
-    "edible?": "yes",
-    "limit?": "-"
+    "edible": "yes",
+    "limit": "-"
   },
   {
-    "food": "wine (one max)",
+    "food": ["wine (one max)"],
     "category": "drinks",
-    "edible?": "yes with limits",
-    "limit?": "1 max"
+    "edible": "yes with limits",
+    "limit": "1 max"
   },
   {
-    "food": "vodka",
+    "food": ["vodka"],
     "category": "drinks",
-    "edible?": "yes with limits",
-    "limit?": "1 max"
+    "edible": "yes with limits",
+    "limit": "1 max"
   },
   {
-    "food": "gin",
+    "food": ["gin"],
     "category": "drinks",
-    "edible?": "yes with limits",
-    "limit?": "1 max"
+    "edible": "yes with limits",
+    "limit": "1 max"
   },
   {
-    "food": "whisky",
+    "food": ["whisky"],
     "category": "drinks",
-    "edible?": "yes with limits",
-    "limit?": "1 max"
+    "edible": "yes with limits",
+    "limit": "1 max"
   },
   {
-    "food": "coconut water",
+    "food": ["coconut water"],
     "category": "drinks",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "apple juice",
+    "food": ["apple juice"],
     "category": "drinks",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "pear juice",
+    "food": ["pear juice"],
     "category": "drinks",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "mango juice",
+    "food": ["mango juice"],
     "category": "drinks",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "soda with hfcs",
+    "food": ["soda with hfcs"],
     "category": "drinks",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "fennel tea",
+    "food": ["fennel tea"],
     "category": "drinks",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "rum",
+    "food": ["rum"],
     "category": "drinks",
-    "edible?": "no",
-    "limit?": "-"
+    "edible": "no",
+    "limit": "-"
   },
   {
-    "food": "tea",
+    "food": ["tea"],
     "category": "drinks",
-    "edible?": "no with limits",
-    "limit?": "chamomile, fennel & oolong"
+    "edible": "no with limits",
+    "limit": "chamomile, fennel & oolong"
   },
   {
-    "food": "kettle's baked potato chips",
+    "food": ["kettle's baked potato chips"],
     "category": "snacks",
-    "edible?": "yes with limits",
-    "limit?": "sea salt flavour"
+    "edible": "yes with limits",
+    "limit": "sea salt flavour"
   },
   {
-    "food": "rice cake",
+    "food": ["rice cake"],
     "category": "snacks",
-    "edible?": "yes",
-    "limit?": "2 plain max"
+    "edible": "yes",
+    "limit": "2 plain max"
   },
   {
-    "food": "rice cracker",
+    "food": ["rice cracker"],
     "category": "snacks",
-    "edible?": "yes with limits",
-    "limit?": "20 plain max"
+    "edible": "yes with limits",
+    "limit": "20 plain max"
   },
   {
-    "food": "jelly",
+    "food": ["jelly"],
     "category": "snacks",
-    "edible?": "yes with limits",
-    "limit?": "250ml max"
+    "edible": "yes with limits",
+    "limit": "250ml max"
   }
 ]

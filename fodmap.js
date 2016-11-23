@@ -6,43 +6,37 @@ window.onload = function(){
   });
   
   function searchFoods(foodName){
-    // for (var i; i < foods.size(); foods++){
-    //   foods.searchSomething("");
-    // }
-
     for (var f of foods){
       for (var n of f.food){
         if (n == foodName){
-          
-        } 
-        console.log(foodName); 
+          return f.edible;
+        }
       }
     }
 
-    var background = "green";
-    var status = "yes";
+    return "no result";
+  }
 
-    return [background, status];
+  function getBackground(edible){
+    if (edible == "yes" || edible == "yes with limits"){
+      return "green";
+    } else if (edible == "no" || edible == "no with limits"){
+      return "red";
+    } else {
+      return "black";
+    }
   }
 
   $("#canieatthis").submit(function(e) { 
     e.preventDefault();
     var foodInput = $("#food").val();
-    var results = searchFoods(foodInput);
-
-    if (foodInput == "tomato"){
-      results = ["green", "YES"]; 
-    } else if (foodInput == "bread"){
-      results = ["red", "NO"]; 
-    } else {
-      results = ["black", "NO RESULT"]; 
-    }
+    var result = searchFoods(foodInput);
 
     $("#result-overlay").css({
-      background: results[0]
+      background: getBackground(result)
     }).show();
 
-    $("#result").html(results[1]);
+    $("#result").html(result);
   });
 
   $(window).keyup(function(e) {
