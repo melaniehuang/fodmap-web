@@ -1,15 +1,34 @@
-window.onload = function(){
+window.onload = function(){  
+  var foods;
+
+  $.getJSON("data/fodmap.json", function(data) {
+    foods = data;
+  });
   
-  var fodCSV;
-  function preload() {
-    fodCSV = loadJSON("/data/fodmap.json"); 
+  function searchFoods(foodName){
+    // for (var i; i < foods.size(); foods++){
+    //   foods.searchSomething("");
+    // }
+
+    for (var f of foods){
+      for (var n of f.food){
+        if (n == foodName){
+          
+        } 
+        console.log(foodName); 
+      }
+    }
+
+    var background = "green";
+    var status = "yes";
+
+    return [background, status];
   }
-  
+
   $("#canieatthis").submit(function(e) { 
     e.preventDefault();
     var foodInput = $("#food").val();
-    console.log(foodInput);
-    var results;
+    var results = searchFoods(foodInput);
 
     if (foodInput == "tomato"){
       results = ["green", "YES"]; 
@@ -34,3 +53,4 @@ window.onload = function(){
     } 
   });
 };
+
